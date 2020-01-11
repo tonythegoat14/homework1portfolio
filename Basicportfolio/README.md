@@ -1,0 +1,2 @@
+# Basicportfolio
+homework 1
